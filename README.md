@@ -4,12 +4,20 @@
 
 # Prerequirements
 Tested on 
+
 Computer - M1 Mac MacOS Version 13.4.1 (c)
+
 Python Version - 3.9
+
 Libraries / Version -
-PyQt6 / 6.5.2
-PyQt6-Qt6 / 6.5.2
-PyQt6-sip / 13.5.2
+
+ PyQt6 / 6.5.2
+ 
+ PyQt6-Qt6 / 6.5.2
+ 
+ PyQt6-sip / 13.5.2
+ 
+
 
 Other variations may work but this is what it's tested on.
 ###### Expected requirements
