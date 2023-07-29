@@ -29,7 +29,7 @@ PyQt 6+
 2. Open the directory with terminal/commandline
 macOS - python3 ChatGPT\ Splitter.py
 
-#How to use
+# How to use
 1. Copy large piece of text and paste it into the input text box
 2. Press the "Split" button at the bottom
 3. The right of "Copy" has a index of the current chunk after processing it will always start at 0, the introductionary chunk
