@@ -27,6 +27,8 @@ PyQt 6+
 # Installation
 1. Either download or clone the repository
 2. Open the directory with terminal/commandline
+3. Run
+
 macOS - python3 ChatGPT\ Splitter.py
 
 # How to use
